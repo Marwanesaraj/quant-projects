@@ -2,8 +2,8 @@
 
 A portfolio of **3 production-ready projects** covering probability theory, Monte Carlo simulation, and algorithmic backtesting — core skills for quantitative trading firms.
 
-**Designed for:** Wincent, Jane Street, Virtu Financial, IMC  
-**Author:** Shlomo (EIDIA, Fès)  
+**Designed for: Quant internships**
+**Author:** MARWANE SARAJ (EIDIA, Fès)  
 **Last updated:** September 2026
 
 ---
